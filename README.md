@@ -51,7 +51,7 @@ This project simulates a data-driven analysis for **ArtHouse Central**, a fictio
 
 ## 📌 Sample Visuals
 
-![Genre Popularity Heatmap](plots/genre_popularity_heatmap.png)  
+![Genre Popularity Heatmap](/genre_popularity_heatmap.png)  
 *A heatmap showing the evolving popularity of different genres from year to year.*
 
 ---
